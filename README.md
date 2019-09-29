@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## the growth mindset
 **when i will growth mindset drives motivation and achievment**
 ***i can get smarter then learning my goal & efort makes me stronger 
 then i would spend more time and work harder***
