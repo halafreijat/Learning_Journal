@@ -7,4 +7,21 @@
 
 *What Markdown Is and How It Works*
 ![](https://i.kinja-img.com/gawker-media/image/upload/s--kYgjOjI4--/c_fit,f_auto,fl_progressive,q_80,w_636/17z3kfu9jbt1vjpg.jpg)
+ 
+ *Markdown uses a very simple formatting syntax to accomplish the same thing that HTML or Rich Text Formatting does. The difference is that it's simpler than HTML and you don't have to worry about opening and closing tags. It also doesn't have all of the menus associated with most text editing programs. To format text, Markdown uses punctuation and characters you're already familiar with.
+
+For example, to create a header you use hashtags. So, "# HEADLINE" is a large header. "## HEADLINE" would be a little smaller, "### HEADLINE" would be smaller still.*
+
+
+
+*So, Why Should You Use It?*
+![](https://i.kinja-img.com/gawker-media/image/upload/s--iMFIgbbb--/c_fit,f_auto,fl_progressive,q_80,w_636/17z3l6wyyd84fjpg.jpg)
+
+
+
+
+
+
+
+
 Sincerely,
