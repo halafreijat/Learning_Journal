@@ -6,4 +6,4 @@
 **Take ownership over your attitude**
 **if we aplay top ways get up a haigher achivment**
 [my_github](https://halafreijat.github.io/hello-amman102/)
-![](https://teacherbooker.com/wp-content/uploads/2017/10/Blog-pic-growth-mindset.jpg)
+![](https://cdnb.artstation.com/p/assets/images/images/005/507/167/large/howie-le-brain-whole-fotor.jpg?1491529680&dl=1)
