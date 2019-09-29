@@ -13,15 +13,18 @@
 For example, to create a header you use hashtags. So, "# HEADLINE" is a large header. "## HEADLINE" would be a little smaller, "### HEADLINE" would be smaller still.*
 
 
-
+ 
+ 
 *So, Why Should You Use It?*
 ![](https://i.kinja-img.com/gawker-media/image/upload/s--iMFIgbbb--/c_fit,f_auto,fl_progressive,q_80,w_636/17z3l6wyyd84fjpg.jpg)
 
+*We're big fans of plain text writing—or at the very least, writing with the exact amount of tools you need. If plain text is too minimal for you because you need formatting, but you don't want to waste time with too much formatting with the likes of Microsoft Word, then Markdown is a good in-between. It's also supported in tons of different web applications, including Tumblr, some Wiki's, and other*
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZXV2-YJapY3PsXNVvflyZlNlIy6O7L6r54da1dQ3sKxP4wwJ)
 
-
-
-
+**Markdown isn't for everyone, but it's not difficult to learn, and you can do a lot with it. It's perfect for anyone who thinks plain text is too minimal, but word processors are too bloated**
 
 
 Sincerely,
+**hala freijat**
+ if you Have a question or suggestion  Send it to hala.freijat@outlook.com.
