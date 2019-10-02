@@ -1,7 +1,4 @@
 
-button>Change user</button>
-var myButton = document.querySelector('button');
-var myHeading = document.querySelector('h1');
 function setUserName() {
     var myName = prompt('Please enter your name.');
     localStorage.setItem('name', myName);
@@ -13,3 +10,9 @@ function setUserName() {
     var storedName = localStorage.getItem('name');
     myHeading.textContent = 'Mozilla is cool, ' + storedName;
   }
+  myButton.onclick = function() {
+    setUserName();
+  }
+
+var myButton = document.querySelector('button');
+var myHeading = document.querySelector('h1');
