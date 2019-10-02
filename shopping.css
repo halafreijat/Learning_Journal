@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+    width: 800px;
+
+
+}
+header{
+    color: crimson;
+    text-align: center;
+    font-size: 20px;
+    display: block;
+
+
+}
+
+nav ul li{
+
+    background-color: aquamarine;
+    display: inline-block;
+    font-size: 18px;
+
+
+}
+
+footer{
+    background-color: black;
+    color: azure;
+    text-align: center;
+    
+}
+.shopping.html image {
+    text-align: center
+}
+
+
