@@ -1,10 +1,10 @@
-body{
+body {
     background-color: bisque;
     width: 800px;
 
 
 }
-header{
+header {
     color: crimson;
     text-align: center;
     font-size: 20px;
@@ -13,7 +13,7 @@ header{
 
 }
 
-nav ul li{
+nav ul li {
 
     background-color: aquamarine;
     display: inline-block;
@@ -22,14 +22,24 @@ nav ul li{
 
 }
 
-footer{
+footer {
     background-color: black;
-    color: azure;
     text-align: center;
     
 }
-.shopping.html image {
-    text-align: center
-}
+
+p,li,h1 {
+    color: darkred;
+  }
+
+  p {
+    color:darkslategray;
+    width: 500px;
+    border: 1px solid black;
+  }
+  html {
+    font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: placeholder: this should be the rest of the output you got from Google fonts
+  }
 
 
