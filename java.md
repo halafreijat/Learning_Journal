@@ -1,6 +1,6 @@
 # introdution
 
-[](https://nadia-training.com/wp-content/uploads/2019/03/JavaScript-Essentials-Course.jpg)
+![](https://nadia-training.com/wp-content/uploads/2019/03/JavaScript-Essentials-Course.jpg)
  
 *Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step*
 
